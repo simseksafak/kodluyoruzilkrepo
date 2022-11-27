@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![proje repo image](https://imgyukle.com/i/JYjxKN)
+![proje repo image](https://imgyukle.com/f/2022/11/27/JYjxKN.png)
 
 
 
